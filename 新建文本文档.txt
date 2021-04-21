@@ -3,3 +3,5 @@ deb http://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main contrib non-free
 deb-src https://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main contrib non-free
 
  
+
+git clone https://github.com/fastoe/RTL8812BU/tree/v5.6.1
